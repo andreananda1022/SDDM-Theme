@@ -1,0 +1,9 @@
+[SddmGreeterTheme]
+Name = Meyer
+Description = Simple custom SDDM theme
+Type = sddm-theme
+Version = 1.0.0
+MainScript = Main.qml
+Author = Mythia
+License = GPL 3+
+Copyright = (c) 2025, Mythia
